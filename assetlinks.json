@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.squadio.squadio_task",
+            "sha256_cert_fingerprints": [
+                "D3:85:12:12:D2:A4:E7:E7:4B:FA:9C:E5:B1:28:4B:2E:10:38:0E:52:66:36:EF:EA:E7:2A:03:3B:D0:3B:8D:CA"
+            ]
+        }
+    }
+]
